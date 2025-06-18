@@ -1,0 +1,24 @@
+name: Generate Pacman Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # 매 6시간마다
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: platane/snk@v3
+        with:
+          github_user_name: ZerobugPark
+          outputs: |
+            ./dist/pacman-contribution-graph.svg
+            ./dist/pacman-contribution-graph-dark.svg
+
+      - name: Push to the `output` branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
