@@ -1,17 +1,11 @@
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  
-  <br />
+<h2 align="left">🧑🏻‍💻 I'm Young </h2>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=A47764&center=true&vCenter=true&width=435&lines=Am+I+Young%3F;Maybe;But+my+code+is+still+growing+up" />
-  </a>
-</div>
+
 
 ###
 
-<div align="center">
+<div align="left">
   <!-- Gmail -->
   <a href="mailto:zerobugPark@gmail.com" target="_blank" style="all: unset; display: inline-block;">
     <img
@@ -37,49 +31,13 @@
   </a>
 </div>
 
-
-
 ###
 
-<h1 align="center">hey there 👋</h1>
+[![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobugpark)](https://github.com/zerobugpark/github-readme-stats)
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Young Kyun Park
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<br><br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZerobugPark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZerobugPark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
